@@ -1,7 +1,10 @@
 @font-face {
     font-family: Reunir;
-    src: url(../fonts/Reunir.eot);
-    src: url(../fonts/Reunir.eot?#iefix) format("embedded-opentype"), url(../fonts/Reunir.woff) format("woff"), url(../fonts/Reunir.ttf) format("truetype"), url(../fonts/Reunir.svg#Reunir) format("svg");
+    src: url(./fonts/Reunir.eot);
+    src: url(./fonts/Reunir.eot?#iefix) format("embedded-opentype"),
+    url(./fonts/Reunir.woff) format("woff"),
+    url(./fonts/Reunir.ttf) format("truetype"),
+    url(./fonts/Reunir.svg#Reunir) format("svg");
     font-weight: 400;
     font-style: normal
 }
