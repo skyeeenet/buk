@@ -15348,6 +15348,15 @@ html {
     align-items: center;
 }
 
+@media (max-width: 800px) {
+    .header-form {
+        flex-direction: column;
+    }
+    .header-form button {
+        margin-top: 20px;
+    }
+}
+
 .header-form input {
     font-family: Open Sans;
     font-size: 1rem;
