@@ -10433,10 +10433,6 @@ html {
     z-index: 1
 }
 
-.calculate-aria .calculate-left {
-    margin-top: 2.25rem
-}
-
 .calculate-aria .calculate-left .icon-box i {
     font-size: 3.125rem;
     color: #fff
@@ -15330,12 +15326,17 @@ html {
 
 .header-messenger {
     color: white;
-    font-size: 32px;
     font-weight: bold;
+    font-size: 32px;
+}
+
+.header-messenger i {
+    font-size: 80px;
 }
 
 .header-messenger:hover {
     color: white;
+    text-decoration: none;
 }
 
 .header-icon-box {
@@ -15415,4 +15416,21 @@ html {
 
 .choose-section .overlay .single-item {
     min-height: 380px;
+}
+
+.header-title {
+    font-size: 40px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.contact-email {
+    text-transform: uppercase;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.calculate-left {
+    padding-bottom: 30px;
 }
